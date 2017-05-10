@@ -1,0 +1,1 @@
+# kube-scheduler-amd64-v1.6.2
